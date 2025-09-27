@@ -1,7 +1,7 @@
 # Welcome! Come see what I'm building.
 
 ```javascript
-console.log("<GyeongHwan profile='frontend-developer' /> is now mounted. Welcome!");
+console.log("<GyeongHwan profile='frontend-developer' /> is now mounted.");
 
 const GyeongHwan = () => {
   return {
@@ -11,7 +11,7 @@ const GyeongHwan = () => {
   };
 };
 
-console.log("Building the web, one component at a time 🚀");
+console.log("Building the web, one component at a time!");
 ```
 
 ## Philosophy
