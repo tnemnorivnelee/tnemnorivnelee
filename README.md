@@ -1,4 +1,20 @@
-# Welcome to gyeonghwan's github
+# Welcome! Come see what I'm building.
+
+```javascript
+console.log("<GyeongHwan profile='frontend-developer' /> is now mounted. Welcome!");
+
+const GyeongHwan = () => {
+  return {
+    role: "Frontend Developer",
+    skills: ["React", "TypeScript", "Next.js"],
+    focus: "UX-driven development"
+  };
+};
+
+console.log("Building the web, one component at a time 🚀");
+```
+
+## Philosophy
 
 <div align="center">
   
@@ -64,15 +80,7 @@
 
 </div>
 
-## 추구하는 가치
-
-- **🎨 UX 중심 개발**: 제가 만드는 모든 컴포넌트는 최종 사용자 경험을 고려합니다
-- **⚡ 성능 최적화**: 사용자가 좋아하는 빠르고 반응성 좋은 애플리케이션 개발
-- **🔧 깔끔한 코드**: 유지보수가 쉽고 확장 가능하며 잘 문서화된 코드 작성
-- **🤝 협업 마인드**: 다양한 직군과의 원활한 소통을 위한 강한 커뮤니케이션 능력
-- **📱 반응형 디자인**: 모든 디바이스에서 훌륭한 UX를 보장하는 모바일 우선 접근법
-
-## 🌟 주요 프로젝트
+## Projects
 
 *곧 공개 예정 - 현재 최고의 작업물들을 정리하여 여기에 소개할 예정입니다*
 
