@@ -1,9 +1,11 @@
+# Welcome to gyeonghwan's github
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=3000&color=F7F7F7&multiline=true&repeat=false&width=1000&height=60&lines=Dedicated+to+creating+web+applications+that+users+love+to+interact+with+every+day.)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=3000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=60&lines=Dedicated+to+creating+web+applications+that+users+love+to+interact+with+every+day.)](https://git.io/typing-svg)
 
 </div>
+
 
 ## Tech Stack
 
@@ -23,21 +25,34 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
 
+### **Library**
+<div>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+</div>
+
+### **Package Manager**
+<div>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
+</div>
+
 ### **Tools**
+
 <div>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 </div>
 
 ## GitHub Stats
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tnemnorivnelee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnemnorivnelee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tnemnorivnelee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnemnorivnelee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
