@@ -1,8 +1,6 @@
 # Welcome! Come see what I'm building.
-
 ```javascript
 console.log("<GyeongHwan profile='frontend-developer' /> is now mounted.");
-
 const GyeongHwan = () => {
   return {
     role: "Frontend Developer",
@@ -10,26 +8,19 @@ const GyeongHwan = () => {
     focus: "UX-driven development"
   };
 };
-
 console.log("Building the web, one component at a time!");
 ```
-
 ## Philosophy
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=3000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=60&lines=Dedicated+to+creating+web+applications+that+users+love+to+interact+with+every+day.)](https://git.io/typing-svg)
-
 </div>
 
-
 ## Tech Stack
-
 ### Language
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 </div>
 
 ### **Framework**
@@ -45,7 +36,6 @@ console.log("Building the web, one component at a time!");
 <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
 </div>
 
-
 ### **Style & UI**
 <div>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -59,7 +49,6 @@ console.log("Building the web, one component at a time!");
 </div>
 
 ### **Tools**
-
 <div>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -68,24 +57,65 @@ console.log("Building the web, one component at a time!");
 </div>
 
 ## GitHub Stats
-
 <div align="center">
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tnemnorivnelee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnemnorivnelee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ## Algorithm Level
-
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leegh0702)](https://solved.ac/leegh0702)
-
 </div>
 
 ## Projects
 
-*곧 공개 예정 - 현재 최고의 작업물들을 정리하여 여기에 소개할 예정입니다*
+
+
+### 📝 [Gamza Tech Blog](https://github.com/potato-club/GamzaTechBlog-front)
+**동아리 기술 블로그 플랫폼** | 2025.06 ~
+
+감자 코딩 동아리의 기술 지식 공유를 위한 블로그 플랫폼입니다. 효율적인 콘텐츠 관리와 사용자 친화적인 인터페이스에 중점을 두고 개발했습니다.
+
+**Tech Stack:** React, TypeScript, Next.js, Tailwind, Shadcn/ui, Tanstack-Query   
+**Role:** Frontend Developer
+**Member:** Front-1, Back-1, Design-1
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://app.gamzatech.site/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/potato-club/GamzaTechBlog-front)
+
+---
+
+### 🚀 [Gamza Promotion](https://github.com/potato-club/gamza-promotion)
+**동아리 홍보 웹사이트** | 2025.06 ~
+
+감자 코딩 동아리의 공식 홍보 웹사이트로, 부드러운 스크롤 애니메이션과 인터랙티브한 UI/UX를 구현했습니다. Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최적화된 애니메이션을 적용했습니다.
+
+**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Lenis, Radix UI  
+**Role:** Frontend Developer
+**Member:** Front-1, Back-1, Design-1
+**Highlights:** CSS 기반 마키 슬라이더, Intersection Observer 지연 로딩, 완전한 반응형 디자인
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://www.gamzatech.site/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/potato-club/gamza-promotion)
+
+---
+
+### 🎯 [Hanmo (한모)](https://github.com/DevOpsSociety/Hanmo-front)
+**대학 내 학생 매칭 및 커뮤니티 플랫폼** | 2025.03 ~ 2025.07
+
+학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. WebSocket 기반 실시간 채팅과 게시판 기능을 제공하며, SMS 인증을 통한 안전한 회원가입 시스템을 구현했습니다.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind, Axios  
+**Role:** Frontend Developer
+**Member:** Front-2, Back-3, Design-1
+**Key Features:** 실시간 매칭 알고리즘, WebSocket 채팅, SMS 본인 인증, 조건 기반 필터링
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
+
+---
+
+<div align="center">
+<i>더 많은 프로젝트와 코드는 GitHub 레포지토리에서 확인하실 수 있습니다.</i>
+</div>
 
 ---
 
@@ -95,5 +125,4 @@ console.log("Building the web, one component at a time!");
 
 [![GitHub followers](https://img.shields.io/github/followers/tnemnorivnelee?style=social)](https://github.com/tnemnorivnelee)
 [![GitHub stars](https://img.shields.io/github/stars/tnemnorivnelee?style=social)](https://github.com/tnemnorivnelee)
-
 </div>
