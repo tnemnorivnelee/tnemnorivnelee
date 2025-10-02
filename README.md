@@ -16,6 +16,8 @@ console.log("Building the web, one component at a time!");
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=3000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=60&lines=Dedicated+to+creating+web+applications+that+users+love+to+interact+with+every+day.)](https://git.io/typing-svg)
 </div>
 
+
+
 ## Tech Stack
 ### Language
 <div>
@@ -56,21 +58,9 @@ console.log("Building the web, one component at a time!");
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 </div>
 
-## GitHub Stats
-<div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tnemnorivnelee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnemnorivnelee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-## Algorithm Level
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leegh0702)](https://solved.ac/leegh0702)
-</div>
+---
 
 ## Projects
-
-
 
 ### 📝 [Gamza Tech Blog](https://github.com/potato-club/GamzaTechBlog-front)
 **동아리 기술 블로그 플랫폼** | 2025.06 ~
@@ -112,6 +102,20 @@ console.log("Building the web, one component at a time!");
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
 
 ---
+
+## GitHub Stats
+<div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tnemnorivnelee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnemnorivnelee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+## Algorithm Level
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leegh0702)](https://solved.ac/leegh0702)
+</div>
+
+
 
 <div align="center">
 <i>더 많은 프로젝트와 코드는 GitHub 레포지토리에서 확인하실 수 있습니다.</i>
