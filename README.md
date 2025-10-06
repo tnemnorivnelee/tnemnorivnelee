@@ -65,7 +65,8 @@ console.log("Building the web, one component at a time!");
 ### 📝 [Gamza Tech Blog](https://github.com/potato-club/GamzaTechBlog-front)
 **동아리 기술 블로그 플랫폼** | 2025.06 ~
 
-감자 코딩 동아리의 기술 지식 공유를 위한 블로그 플랫폼입니다. 효율적인 콘텐츠 관리와 사용자 친화적인 인터페이스에 중점을 두고 개발했습니다.
+감자 코딩 동아리의 기술 지식 공유를 위한 블로그 플랫폼입니다. <br />
+효율적인 콘텐츠 관리와 사용자 친화적인 인터페이스에 중점을 두고 개발했습니다.
 
 **Tech Stack:** React, TypeScript, Next.js, Tailwind, Shadcn/ui, Tanstack-Query   
 **Role:** Frontend Developer
@@ -78,11 +79,12 @@ console.log("Building the web, one component at a time!");
 ### 🚀 [Gamza Promotion](https://github.com/potato-club/gamza-promotion)
 **동아리 홍보 웹사이트** | 2025.06 ~
 
-감자 코딩 동아리의 공식 홍보 웹사이트로, 부드러운 스크롤 애니메이션과 인터랙티브한 UI/UX를 구현했습니다. Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최적화된 애니메이션을 적용했습니다.
+감자 코딩 동아리의 공식 홍보 웹사이트로, 부드러운 스크롤 애니메이션과 인터랙티브한 UI/UX를 구현했습니다. <br />
+Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최적화된 애니메이션을 적용했습니다.
 
 **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Lenis, Radix UI  
 **Role:** Frontend Developer
-**Member:** Front-1, Back-1, Design-1
+**Member:** Front-1, Back-1, Design-1  <br />
 **Highlights:** CSS 기반 마키 슬라이더, Intersection Observer 지연 로딩, 완전한 반응형 디자인
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://www.gamzatech.site/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/potato-club/gamza-promotion)
@@ -92,11 +94,13 @@ console.log("Building the web, one component at a time!");
 ### 🎯 [Hanmo (한모)](https://github.com/DevOpsSociety/Hanmo-front)
 **대학 내 학생 매칭 및 커뮤니티 플랫폼** | 2025.03 ~ 2025.07
 
-학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. WebSocket 기반 실시간 채팅과 게시판 기능을 제공하며, SMS 인증을 통한 안전한 회원가입 시스템을 구현했습니다.
+학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. <br />
+실제 학교 축제 기간 동안 서비스를 운영하여 **200명 이상의 가입자와 70팀 이상의 매칭**을 성공적으로 이끌어냈습니다. <br />
+WebSocket 기반 실시간 채팅과 게시판 기능을 제공하며, SMS 인증을 통한 안전한 회원가입 시스템을 구현했습니다.
 
 **Tech Stack:** Next.js, TypeScript, Tailwind, Axios  
 **Role:** Frontend Developer
-**Member:** Front-2, Back-3, Design-1
+**Member:** Front-2, Back-3, Design-1 <br />
 **Key Features:** 실시간 매칭 알고리즘, WebSocket 채팅, SMS 본인 인증, 조건 기반 필터링
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
