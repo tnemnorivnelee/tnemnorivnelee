@@ -77,7 +77,7 @@ console.log("Building the web, one component at a time!");
 ---
 
 ### 🚀 [Gamza Promotion](https://github.com/potato-club/gamza-promotion)
-**동아리 홍보 웹사이트** | 2025.06 ~
+**한세대학교 감자 코딩 동아리 홍보 웹사이트** | 2025.06 ~
 
 감자 코딩 동아리의 공식 홍보 웹사이트로, 부드러운 스크롤 애니메이션과 인터랙티브한 UI/UX를 구현했습니다. <br />
 Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최적화된 애니메이션을 적용했습니다.
@@ -104,7 +104,7 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 
 ---
 
-### 🎯 [Hanmo (한모)](https://github.com/DevOpsSociety/Hanmo-front)
+### 🎯 [Hanmo (한세에서 모여봐요!)](https://github.com/DevOpsSociety/Hanmo-front)
 **대학 내 학생 매칭 및 커뮤니티 플랫폼** | 2025.03 ~ 2025.07
 
 학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. <br />
