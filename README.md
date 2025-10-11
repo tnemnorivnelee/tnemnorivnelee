@@ -91,6 +91,19 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 
 ---
 
+### 📝 [FlowPlan](https://github.com/DevOpsSociety/FlowPlan-front)
+**AI 기반 WBS 자동 생성 서비스** | 2025.10 ~
+
+...
+
+**Tech Stack:** React, TypeScript, Next.js, Tailwind, Shadcn/ui  
+**Role:** Frontend Developer <br />
+**Member:** Front-2, Back-2
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
+
+---
+
 ### 🎯 [Hanmo (한모)](https://github.com/DevOpsSociety/Hanmo-front)
 **대학 내 학생 매칭 및 커뮤니티 플랫폼** | 2025.03 ~ 2025.07
 
