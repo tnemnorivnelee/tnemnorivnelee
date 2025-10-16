@@ -97,7 +97,7 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 ...
 
 **Tech Stack:** React, TypeScript, Next.js, Tailwind, Shadcn/ui  
-**Role:** Frontend Developer <br />
+**Role:** Frontend Developer (초기 전체 페이지 퍼블리싱 및 디자인) <br />
 **Member:** Front-2, Back-2
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
@@ -112,7 +112,7 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 WebSocket 기반 실시간 채팅과 게시판 기능을 제공하며, SMS 인증을 통한 안전한 회원가입 시스템을 구현했습니다.
 
 **Tech Stack:** Next.js, TypeScript, Tailwind, Axios  
-**Role:** Frontend Developer <br />
+**Role:** Frontend Developer (사용자 인증 및 인가, 실시간 채팅, 게시판 관련 로직 담당) <br />
 **Member:** Front-2, Back-3, Design-1 <br />
 **Key Features:** 실시간 매칭 알고리즘, WebSocket 채팅, SMS 본인 인증, 조건 기반 필터링
 
