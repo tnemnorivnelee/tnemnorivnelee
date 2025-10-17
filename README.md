@@ -10,6 +10,18 @@ const GyeongHwan = () => {
 };
 console.log("Building the web, one component at a time!");
 ```
+
+## Links
+<div>
+  <a href="https://app.gamzatech.site/profile/tnemnorivnelee">
+    <img src="https://img.shields.io/badge/Tech_Blog-4A90E2?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+  <a href="mailto:leegh0702@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+
 ## Philosophy
 <div align="center">
   
@@ -25,13 +37,9 @@ console.log("Building the web, one component at a time!");
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-### **Framework**
+### **Framework & Library**
 <div>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</div>
-
-### **Library**
-<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white"/>
@@ -44,6 +52,7 @@ console.log("Building the web, one component at a time!");
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white"/>
 </div>
 
+<!--
 ### **Package Manager**
 <div>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
@@ -57,6 +66,8 @@ console.log("Building the web, one component at a time!");
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 </div>
+
+-->
 
 ---
 
