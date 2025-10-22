@@ -108,7 +108,7 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 ...
 
 **Tech Stack:** React, TypeScript, Next.js, Tailwind, Shadcn/ui  
-**Role:** Frontend Developer (초기 전체 페이지 퍼블리싱 및 디자인) <br />
+**Role:** Frontend Developer (초기 전체 페이지 퍼블리싱 및 디자인, 간트차트, 칸반보드 로직 담당) <br />
 **Member:** Front-2, Back-2
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
