@@ -11,26 +11,29 @@ const GyeongHwan = () => {
 console.log("Building the web, one component at a time!");
 ```
 
-## Links
-<div>
-  <a href="https://app.gamzatech.site/profile/tnemnorivnelee">
-    <img src="https://img.shields.io/badge/Tech_Blog-4A90E2?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
-  <a href="mailto:leegh0702@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-
 ## Philosophy
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=3000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=60&lines=Dedicated+to+creating+web+applications+that+users+love+to+interact+with+every+day.)](https://git.io/typing-svg)
 </div>
 
-
-
 ## Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+</div>
+
+<!--
 ### Language
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -51,6 +54,7 @@ console.log("Building the web, one component at a time!");
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white"/>
 </div>
+-->
 
 <!--
 ### **Package Manager**
@@ -147,6 +151,18 @@ WebSocket 기반 실시간 채팅과 게시판 기능을 제공하며, SMS 인�
 
 <div align="center">
 <i>더 많은 프로젝트와 코드는 GitHub 레포지토리에서 확인하실 수 있습니다.</i>
+</div>
+
+---
+
+## Links
+<div align="center">
+  <a href="https://app.gamzatech.site/profile/tnemnorivnelee">
+    <img src="https://img.shields.io/badge/Tech_Blog-4A90E2?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+  <a href="mailto:leegh0702@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
