@@ -81,8 +81,7 @@ console.log("Building the web, one component at a time!");
 **동아리 기술 블로그 플랫폼** | 2025.06 ~
 
 감자 코딩 동아리의 기술 지식 공유를 위한 블로그 플랫폼입니다. <br />
-효율적인 콘텐츠 관리와 사용자 친화적인 인터페이스에 중점을 두고 개발했습니다.
-
+**`HttpOnly` 쿠키 인증, `낙관적 업데이트`(UX), `OpenAPI-Generator`(DX)** 등 실무적인 고민을 적용했습니다. <br />
 **Member:** Front-1, Back-1, Design-1
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://app.gamzatech.site/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/potato-club/GamzaTechBlog-front)
@@ -96,7 +95,10 @@ console.log("Building the web, one component at a time!");
 Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최적화된 애니메이션을 적용했습니다.
 
 **Member:** Front-1, Back-1, Design-1  <br />
-**Highlights:** CSS 기반 마키 슬라이더, Intersection Observer 지연 로딩, 완전한 반응형 디자인
+
+**Highlights:**
+* **성능 최적화:** 고용량(2MB) SVG로 인한 스크롤 버벅임 현상 **디버깅 및 해결**
+* **인터랙션:** `Intersection Observer`를 활용한 지연 로딩 및 동적 애니메이션 구현
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://www.gamzatech.site/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/potato-club/gamza-promotion)
 
@@ -107,7 +109,7 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 
 ...
 
-**Role:** Frontend (초기 전체 페이지 퍼블리싱 및 디자인, 간트차트, 칸반보드 로직 담당) <br />
+**Role:** Frontend (AI 워크플로우 제안, **'Simplified FSD' 아키텍처 설계**, 간트/칸반 로직 담당) <br />
 **Member:** Front-2, Back-2
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
@@ -119,11 +121,15 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 
 학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. <br />
 실제 학교 축제 기간 동안 서비스를 운영하여 **200명 이상의 가입자와 70팀 이상의 매칭**을 성공적으로 이끌어냈습니다. <br />
-WebSocket 기반 실시간 채팅과 게시판 기능을 제공하며, SMS 인증을 통한 안전한 회원가입 시스템을 구현했습니다.
+WebSocket 기반 실시간 채팅과 한 줄 방명록 기능을 제공하며, SMS 인증을 통한 안전한 회원가입 시스템을 구현했습니다.
 
-**Role:** Frontend (사용자 인증 및 인가, 실시간 채팅, 게시판 관련 로직 담당) <br />
-**Member:** Front-2, Back-3, Design-1 <br />
-**Key Features:** 실시간 매칭 알고리즘, WebSocket 채팅, SMS 본인 인증, 조건 기반 필터링
+**Member:** Front-2, Back-3, Design-1
+
+**Key Contributions:**
+* **CI/CD 파이프라인 설계:** Vercel의 '조직 레포' 제약 조건을 우회하는 GitHub Actions 워크플로우 설계
+* **핵심 로직 개선:** 실제 사용자 피드백을 반영한 `+/- 1학번` 매칭 알고리즘 개선
+* **인증/인가:** `react-hook-form` 기반 회원가입 및 토큰 기반 인증 로직 구현
+<br />
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
 
