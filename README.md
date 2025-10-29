@@ -1,4 +1,5 @@
 # Welcome! Come see what I'm building.
+<!--
 ```javascript
 console.log("<GyeongHwan profile='frontend-developer' /> is now mounted.");
 const GyeongHwan = () => {
@@ -16,6 +17,7 @@ console.log("Building the web, one component at a time!");
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=3000&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=60&lines=Dedicated+to+creating+web+applications+that+users+love+to+interact+with+every+day.)](https://git.io/typing-svg)
 </div>
+-->
 
 ## Tech Stack
 
