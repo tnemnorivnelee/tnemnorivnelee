@@ -26,10 +26,10 @@ console.log("Building the web, one component at a time!");
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white"/>
 </div>
-
+<br />
 <div align="center">
+    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
@@ -90,6 +90,26 @@ console.log("Building the web, one component at a time!");
 
 ---
 
+### 🎯 [Hanmo (한세에서 모여봐요!)](https://github.com/DevOpsSociety/Hanmo-front)
+**대학 내 학생 매칭 및 커뮤니티 플랫폼** | 2025.03 ~ 2025.07
+
+학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. <br />
+실제 학교 축제 기간 동안 서비스를 운영하여 **200명 이상의 가입자와 70팀 이상의 매칭**을 성공적으로 이끌어냈습니다. <br />
+react-hook-form과 zod를 활용한 회원가입 시스템, SMS 본인 인증, 그리고 사용자 피드백을 위한 '한 줄 방명록' 기능을 구현했습니다.
+
+**Member:** Front-2, Back-3, Design-1
+
+**Key Contributions:**
+* **CI/CD 파이프라인 설계:** Vercel의 '조직 레포' 제약 조건을 우회하는 GitHub Actions 워크플로우 설계
+* **핵심 로직 개선:** 실제 사용자 피드백을 반영한 `+/- 1학번` 매칭 알고리즘 개선
+* **인증/인가:** `react-hook-form` 기반 회원가입 및 토큰 기반 인증 로직 구현
+* **커뮤니티**: 사용자 피드백을 위한 '한 줄 방명록' 기능 구현
+<br />
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
+
+---
+
 ### 🚀 [Gamza Promotion](https://github.com/potato-club/gamza-promotion)
 **한세대학교 감자 코딩 동아리 홍보 웹사이트** | 2025.06 ~
 
@@ -118,24 +138,7 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 
 ---
 
-### 🎯 [Hanmo (한세에서 모여봐요!)](https://github.com/DevOpsSociety/Hanmo-front)
-**대학 내 학생 매칭 및 커뮤니티 플랫폼** | 2025.03 ~ 2025.07
 
-학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. <br />
-실제 학교 축제 기간 동안 서비스를 운영하여 **200명 이상의 가입자와 70팀 이상의 매칭**을 성공적으로 이끌어냈습니다. <br />
-WebSocket 기반 실시간 채팅과 한 줄 방명록 기능을 제공하며, SMS 인증을 통한 안전한 회원가입 시스템을 구현했습니다.
-
-**Member:** Front-2, Back-3, Design-1
-
-**Key Contributions:**
-* **CI/CD 파이프라인 설계:** Vercel의 '조직 레포' 제약 조건을 우회하는 GitHub Actions 워크플로우 설계
-* **핵심 로직 개선:** 실제 사용자 피드백을 반영한 `+/- 1학번` 매칭 알고리즘 개선
-* **인증/인가:** `react-hook-form` 기반 회원가입 및 토큰 기반 인증 로직 구현
-<br />
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
-
----
 
 ## GitHub Stats
 <div align="center">
