@@ -152,14 +152,6 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leegh0702)](https://solved.ac/leegh0702)
 </div>
 
-
-
-<div align="center">
-<i>더 많은 프로젝트와 코드는 GitHub 레포지토리에서 확인하실 수 있습니다.</i>
-</div>
-
----
-
 ## Links
 <div align="center">
   <a href="https://app.gamzatech.site/profile/tnemnorivnelee">
@@ -170,12 +162,4 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
   </a>
 </div>
 
----
 
-<div align="center">
-
-**"훌륭한 사용자 경험은 단순히 보기 좋게 만드는 것이 아니라, 아름답게 작동하도록 만드는 것입니다."**
-
-[![GitHub followers](https://img.shields.io/github/followers/tnemnorivnelee?style=social)](https://github.com/tnemnorivnelee)
-[![GitHub stars](https://img.shields.io/github/stars/tnemnorivnelee?style=social)](https://github.com/tnemnorivnelee)
-</div>
