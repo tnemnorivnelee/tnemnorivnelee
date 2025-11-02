@@ -80,10 +80,16 @@ console.log("Building the web, one component at a time!");
 ## Projects
 
 ### 📝 [Gamza Tech Blog](https://github.com/potato-club/GamzaTechBlog-front)
-**동아리 기술 블로그 플랫폼** | 2025.06 ~
+**한세대학교 IT 학부 웹 개발 동아리 ‘감자’ 부원들을 위한 기술 블로그 플랫폼** | 2025.06 ~ 
 
-감자 코딩 동아리의 기술 지식 공유를 위한 블로그 플랫폼입니다. <br />
-**`HttpOnly` 쿠키 인증, `낙관적 업데이트`(UX), `OpenAPI-Generator`(DX)** 등 실무적인 고민을 적용했습니다. <br />
+- Next.js App Router 기반 프로젝트 설계 및 전체 기능 구현 (관련 기술 블로그 : https://app.gamzatech.site/posts/69, https://app.gamzatech.site/posts/110 )
+- 인증/인가 처리를 위한 **HttpOnly** 및 **Secure JWT** 구성 제안
+- Tanstack-Query 기반 페이지네이션 기능 구현
+- 댓글 리스트 **낙관적 업데이트** 적용 및 UX 개선
+- openapi-generator 도입으로 개발 효율성 향상 및 휴면 에러 대폭 감소 (관련 기술 블로그 : https://app.gamzatech.site/posts/73,  https://app.gamzatech.site/posts/102 )
+- Github Action 을 이용한 Vercel 기반 **배포 자동화** 워크플로우 작성
+- Tailwind CSS를 활용한 모바일 사이즈 대응 반응형 레이아웃 적용
+
 **Member:** Front-1, Back-1, Design-1
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://app.gamzatech.site/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/potato-club/GamzaTechBlog-front)
@@ -91,36 +97,34 @@ console.log("Building the web, one component at a time!");
 ---
 
 ### 🎯 [Hanmo (한세에서 모여봐요!)](https://github.com/DevOpsSociety/Hanmo-front)
-**대학 내 학생 매칭 및 커뮤니티 플랫폼** | 2025.03 ~ 2025.07
+**교내 학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 웹 앱 서비스** | 2025.03 ~ 2025.07 (5개월)
 
-학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 서비스입니다. <br />
-실제 학교 축제 기간 동안 서비스를 운영하여 **200명 이상의 가입자와 70팀 이상의 매칭**을 성공적으로 이끌어냈습니다. <br />
-react-hook-form과 zod를 활용한 회원가입 시스템, SMS 본인 인증, 그리고 사용자 피드백을 위한 '한 줄 방명록' 기능을 구현했습니다.
+- 2025년 1학기 교내 축제 행사 기간 내 서비스 배포
+- **약 200명의 유저 회원가입 및 60팀 이상 매칭 완료**
+- JWT 기반 인증/인가 로직 구현
+- **react-hook-form + zod 기반 유효성 검증** 회원가입 시스템
+- 서비스 피드백 및 소통을 위한 '한 줄 방명록' 페이지 기능 구현
+- 비로그인 및 권한 없는 이용자 접근 시 리디렉션 되는 관리자 페이지
+- Github Action 을 이용한 Vercel 기반 **배포 자동화** 워크플로우 작성
 
 **Member:** Front-2, Back-3, Design-1
 
-**Key Contributions:**
-* **CI/CD 파이프라인 설계:** Vercel의 '조직 레포' 제약 조건을 우회하는 GitHub Actions 워크플로우 설계
-* **핵심 로직 개선:** 실제 사용자 피드백을 반영한 `+/- 1학번` 매칭 알고리즘 개선
-* **인증/인가:** `react-hook-form` 기반 회원가입 및 토큰 기반 인증 로직 구현
-* **커뮤니티**: 사용자 피드백을 위한 '한 줄 방명록' 기능 구현
-<br />
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
 
 ---
 
 ### 🚀 [Gamza Promotion](https://github.com/potato-club/gamza-promotion)
-**한세대학교 감자 코딩 동아리 홍보 웹사이트** | 2025.06 ~
+**한세대학교 감자 코딩 동아리 홍보 웹사이트** | 2025.06 ~ 2025.09 (2개월)
 
-감자 코딩 동아리의 공식 홍보 웹사이트로, 부드러운 스크롤 애니메이션과 인터랙티브한 UI/UX를 구현했습니다. <br />
-Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최적화된 애니메이션을 적용했습니다.
+- 신규 부원의 흥미 유발 및 매력적인 첫인상을 제공하기 위해 Lenis, React-slot-counter, 
+- React-fast-marquee 등을 활용한 동적 애니메이션 구현
+- 프로젝트 결과물 섹션 버벅거림 현상 디버깅
+- 고용량 이미지 압축으로 인한 버벅거림 현상 문제 해결
+- Github Action 을 이용한 Vercel 기반 배포 자동화 워크플로우 작성
 
 **Member:** Front-1, Back-1, Design-1  <br />
 
-**Highlights:**
-* **성능 최적화:** 고용량(2MB) SVG로 인한 스크롤 버벅임 현상 **디버깅 및 해결**
-* **인터랙션:** `Intersection Observer`를 활용한 지연 로딩 및 동적 애니메이션 구현
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://www.gamzatech.site/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/potato-club/gamza-promotion)
 
@@ -129,9 +133,12 @@ Lenis를 활용한 네이티브 스무스 스크롤링과 GPU 가속 기반 최�
 ### 📝 [FlowPlan](https://github.com/DevOpsSociety/FlowPlan-front)
 **AI 기반 WBS 자동 생성 서비스** | 2025.10 ~
 
-...
+- AI가 생성한 **'초안'을 사용자가 직접 수정/검토할 수 있는 워크플로우를 제안**하여, 최종 WBS 데이터의 정확성과 사용성을 대폭 개선
+- 유지보수성 및 개발자 경험(DX) 향상을 위해, 표준 FSD의 features, entities, widgets 레이어를 통합한 **'Simplified FSD' 아키텍처 설계**
+- 보안성 향상을 위해 **HttpOnly, Secure 쿠키 기반의 JWT 인증/인가 로직 설계 및 제안**
+- 간트차트, 칸반보드 섹션 로직 담당
+- Vercel 배포 자동화 (예정)
 
-**Role:** Frontend (AI 워크플로우 제안, **'Simplified FSD' 아키텍처 설계**, 간트/칸반 로직 담당) <br />
 **Member:** Front-2, Back-2
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
