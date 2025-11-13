@@ -79,16 +79,28 @@ console.log("Building the web, one component at a time!");
 
 ## Projects
 
+### 📝 [FlowPlan](https://github.com/DevOpsSociety/FlowPlan-front)
+**AI 기반 WBS 자동 생성 서비스** | 2025.10 ~
+
+- AI가 생성한 **'초안'을 사용자가 직접 수정/검토할 수 있는 워크플로우를 제안**하여, 최종 WBS 데이터의 정확성과 사용성을 대폭 개선
+- 서버 컴포넌트 prefetch + TanStack Query 하이드레이션으로 초기 로딩 시 API 대기 시간 제거 **(로딩 스피너 없는 UX 구현)**
+
+**Member:** Front-2, Back-2
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
+
+---
+
+
 ### 📝 [Gamza Tech Blog](https://github.com/potato-club/GamzaTechBlog-front)
 **한세대학교 IT 학부 웹 개발 동아리 ‘감자’ 부원들을 위한 기술 블로그 플랫폼** | 2025.06 ~ 
 
-- Next.js App Router 기반 프로젝트 설계 및 전체 기능 구현 (관련 기술 블로그 : https://app.gamzatech.site/posts/69, https://app.gamzatech.site/posts/110 )
-- 인증/인가 처리를 위한 **HttpOnly** 및 **Secure JWT** 구성 제안
-- Tanstack-Query 기반 페이지네이션 기능 구현
+- 주로 '콘텐츠를 읽는' 서비스 특성상, '검색 엔진 노출(SEO)'과 '빠른 초기 로딩'이 중요하다고 판단하여, 서버 사이드 렌더링에 강점이 있는 Next.js 채택 (Next / React 비교)
+- **동적 임포트 및 트리 쉐이킹 최적화를 통해 First Load JS 75% 감소 (관련 기술 블로그)**
+- URL 쿼리 파라미터 연동 페이지네이션 구현 (브라우저 ‘뒤로가기’시, 캐시된 데이터를 활용해 **로딩 지연 없는 즉각적인 UX** 지원)
+- openapi-generator 도입으로 개발 효율성 향상 및 **휴먼 에러 대폭 감소** (관련 기술 블로그 1, 관련 기술 블로그 2 )
+- HttpOnly(XSS 방어) 및 Secure 설정을 적용한 JWT 로직 설계 및 적용
 - 댓글 리스트 **낙관적 업데이트** 적용 및 UX 개선
-- openapi-generator 도입으로 개발 효율성 향상 및 휴면 에러 대폭 감소 (관련 기술 블로그 : https://app.gamzatech.site/posts/73,  https://app.gamzatech.site/posts/102 )
-- Github Action 을 이용한 Vercel 기반 **배포 자동화** 워크플로우 작성
-- Tailwind CSS를 활용한 모바일 사이즈 대응 반응형 레이아웃 적용
 
 **Member:** Front-1, Back-1, Design-1
 
@@ -96,32 +108,13 @@ console.log("Building the web, one component at a time!");
 
 ---
 
-### 🎯 [Hanmo (한세에서 모여봐요!)](https://github.com/DevOpsSociety/Hanmo-front)
-**교내 학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 웹 앱 서비스** | 2025.03 ~ 2025.07 (5개월)
-
-- 2025년 1학기 교내 축제 행사 기간 내 서비스 배포
-- **약 200명의 유저 회원가입 및 60팀 이상 매칭 완료**
-- JWT 기반 인증/인가 로직 구현
-- **react-hook-form + zod 기반 유효성 검증** 회원가입 시스템
-- 서비스 피드백 및 소통을 위한 '한 줄 방명록' 페이지 기능 구현
-- 비로그인 및 권한 없는 이용자 접근 시 리디렉션 되는 관리자 페이지
-- Github Action 을 이용한 Vercel 기반 **배포 자동화** 워크플로우 작성
-
-**Member:** Front-2, Back-3, Design-1
-
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
-
----
-
 ### 🚀 [Gamza Promotion](https://github.com/potato-club/gamza-promotion)
 **한세대학교 감자 코딩 동아리 홍보 웹사이트** | 2025.06 ~ 2025.09 (2개월)
 
-- 신규 부원의 흥미 유발 및 매력적인 첫인상을 제공하기 위해 Lenis, React-slot-counter, 
-- React-fast-marquee 등을 활용한 동적 애니메이션 구현
-- 프로젝트 결과물 섹션 버벅거림 현상 디버깅
-- 고용량 이미지 압축으로 인한 버벅거림 현상 문제 해결
-- Github Action 을 이용한 Vercel 기반 배포 자동화 워크플로우 작성
+- 합격자 조회 페이지에서 GET 요청으로 인한 개인정보 노출 위험을 발견, **POST 방식으로의 API 변경을 제안하여 보안성 강화**
+- 2MB 고용량 이미지의 렌더링 부하로 인한 스크롤 **Jank 현상을 90% 압축 최적화로 해결**하고 매끄러운 UI 구현
+- 주요 유입 채널인 '에브리타임' 앱을 고려, 모바일 사용자의 접근성을 보장하기 위해 **Tailwind CSS 기반 반응형 UI 설계**
+- 신규 부원의 흥미 유발 및 매력적인 첫인상을 제공하기 위해 Lenis, React-slot-counter, React-fast-marquee 등을 활용한 **동적 애니메이션** 구현
 
 **Member:** Front-1, Back-1, Design-1  <br />
 
@@ -130,20 +123,22 @@ console.log("Building the web, one component at a time!");
 
 ---
 
-### 📝 [FlowPlan](https://github.com/DevOpsSociety/FlowPlan-front)
-**AI 기반 WBS 자동 생성 서비스** | 2025.10 ~
+### 🎯 [Hanmo (한세에서 모여봐요!)](https://github.com/DevOpsSociety/Hanmo-front)
+**교내 학생들 간의 교류를 활성화하기 위한 1:1 동성 및 2:2 이성 랜덤 매칭 웹 앱 서비스** | 2025.03 ~ 2025.07 (5개월)
 
-- AI가 생성한 **'초안'을 사용자가 직접 수정/검토할 수 있는 워크플로우를 제안**하여, 최종 WBS 데이터의 정확성과 사용성을 대폭 개선
-- 유지보수성 및 개발자 경험(DX) 향상을 위해, 표준 FSD의 features, entities, widgets 레이어를 통합한 **'Simplified FSD' 아키텍처 설계**
-- 보안성 향상을 위해 **HttpOnly, Secure 쿠키 기반의 JWT 인증/인가 로직 설계 및 제안**
-- 간트차트, 칸반보드 섹션 로직 담당
-- Vercel 배포 자동화 (예정)
+- 2025년 1학기 교내 축제 행사 기간 내 서비스 배포
+- **약 200명의 유저 회원가입 및 60팀 이상 매칭 완료**
+- **react-hook-form + zod 기반 유효성 검증** 회원가입 시스템
+- Github Action 을 이용한 Vercel 기반 배포 자동화 워크플로우 작성
+- 서비스 피드백 및 소통을 위한 '한 줄 방명록' 페이지 기능 구현
 
-**Member:** Front-2, Back-2
+**Member:** Front-2, Back-3, Design-1
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://hanmo-front.vercel.app/landing) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/Hanmo-front)
 
 ---
+
 
 
 
