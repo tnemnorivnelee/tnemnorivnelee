@@ -1,4 +1,3 @@
-# Welcome! Come see what I'm building.
 <!--
 ```javascript
 console.log("<GyeongHwan profile='frontend-developer' /> is now mounted.");
