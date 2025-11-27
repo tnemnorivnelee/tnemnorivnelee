@@ -78,6 +78,18 @@ console.log("Building the web, one component at a time!");
 
 ## Projects
 
+### 📝 [한세로](https://github.com/Hansei-ro/hanseiro-app)
+**산본역/금정역에서 한세대학교로 가는 학생들을 위한 택시 카풀 매칭 서비스 앱** | 2025.11 ~
+
+- 팀원들의 온보딩 지연 문제를 해결하기 위해, **기능 단위 템플릿** 환경을 구축하여 초기 개발 생산성 향상에 기여
+- 매칭 및 알림 기능 담당 (개발 진행 예정)
+
+**Member:** Front-3, Back-3, Design-1
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Hansei-ro/hanseiro-app)
+
+---
+
 ### 📝 [FlowPlan](https://github.com/DevOpsSociety/FlowPlan-front)
 **AI 기반 WBS 자동 생성 서비스** | 2025.10 ~
 
