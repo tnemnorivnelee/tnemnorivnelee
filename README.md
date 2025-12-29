@@ -24,14 +24,23 @@ console.log("Building the web, one component at a time!");
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </div>
 <br />
 <div align="center">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Emotion_Styled-D26AC2?style=for-the-badge&logo=emotion&logoColor=white"/>
+</div>
+<br />
+<div align="center">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white"/> -->
+</div>
+<br />
+<div align="center">
   <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Orval-F89F1B?style=for-the-badge&logoColor=white"/>
 </div>
 
 <!--
