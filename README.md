@@ -92,6 +92,7 @@ console.log("Building the web, one component at a time!");
 
 - 팀원들의 온보딩 지연 문제를 해결하기 위해, **기능 단위 템플릿** 환경을 구축하여 초기 개발 생산성 향상에 기여
 - 매칭 및 알림 기능 담당 (개발 진행 예정)
+- renderItem 모듈 스코프 외부화와 불필요한 useMemo 제거로 FlatList 리렌더링을 최소화해 채팅·매치 리스트 스크롤 성능 최적화
 
 **Member:** Front-3, Back-3, Design-1
 
