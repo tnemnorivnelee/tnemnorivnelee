@@ -87,6 +87,17 @@ console.log("Building the web, one component at a time!");
 
 ## Projects
 
+### 📝 [GAK](https://github.com/dnd-side-project/dnd-14th-9-frontend)
+**모여서 각자 작업 서비스 웹 서비스** | 2026.01 ~
+
+- 
+
+**Member:** Front-2, Back-2, Design-2
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/dnd-side-project/dnd-14th-9-frontend)
+
+---
+
 ### 📝 [한세로](https://github.com/Hansei-ro/hanseiro-app)
 **산본역/금정역에서 한세대학교로 가는 학생들을 위한 택시 카풀 매칭 서비스 앱** | 2025.11 ~
 
