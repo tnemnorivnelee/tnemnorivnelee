@@ -98,6 +98,7 @@ console.log("Building the web, one component at a time!");
 
 ---
 
+<!--
 ### 📝 [한세로](https://github.com/Hansei-ro/hanseiro-app)
 **산본역/금정역에서 한세대학교로 가는 학생들을 위한 택시 카풀 매칭 서비스 앱** | 2025.11 ~
 
@@ -110,7 +111,8 @@ console.log("Building the web, one component at a time!");
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Hansei-ro/hanseiro-app)
 
 ---
-
+-->
+<!--
 ### 📝 [FlowPlan](https://github.com/DevOpsSociety/FlowPlan-front)
 **AI 기반 WBS 자동 생성 서비스** | 2025.10 ~
 
@@ -122,8 +124,7 @@ console.log("Building the web, one component at a time!");
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)]() [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/DevOpsSociety/FlowPlan-front)
 
 ---
-
-
+-->
 ### 📝 [Gamza Tech Blog](https://github.com/potato-club/GamzaTechBlog-front)
 **한세대학교 IT 학부 웹 개발 동아리 ‘감자’ 부원들을 위한 기술 블로그 플랫폼** | 2025.06 ~ 
 
