@@ -83,19 +83,6 @@ console.log("Building the web, one component at a time!");
 
 -->
 
-
-## GitHub Stats
-<div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tnemnorivnelee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tnemnorivnelee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-## Algorithm Level
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leegh0702)](https://solved.ac/leegh0702)
-</div>
-
 ## Links
 <div align="center">
   <a href="https://app.gamzatech.site/profile/tnemnorivnelee">
