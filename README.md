@@ -83,8 +83,6 @@ console.log("Building the web, one component at a time!");
 
 -->
 
----
-
 
 ## GitHub Stats
 <div align="center">
