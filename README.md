@@ -40,7 +40,6 @@ console.log("Building the web, one component at a time!");
 <br />
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Orval-F89F1B?style=for-the-badge&logoColor=white"/>
 </div>
 
 <!--
