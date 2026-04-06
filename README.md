@@ -35,6 +35,7 @@ console.log("Building the web, one component at a time!");
   <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
 </div>
 
+---
 
 ### 🚀 Activities
 
@@ -86,6 +87,8 @@ console.log("Building the web, one component at a time!");
 </div>
 
 -->
+
+---
 
 ### 🔗 Links
 
