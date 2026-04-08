@@ -20,19 +20,34 @@ console.log("Building the web, one component at a time!");
 
 ### 🛠 Tech Stack
 
+#### Main Skills
 <div align="">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+</div>
+
+#### Familiar
+<div align="">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </div>
 <div align="" style="margin-top: 4px;">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Emotion-D26AC2?style=flat-square&logo=emotion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
+</div>
+<div align="" style="margin-top: 4px;">
   <img src="https://img.shields.io/badge/Orval-gray?style=flat-square&logo=openapiinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAPI_Generator-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chromatic-FC521F?style=flat-square&logo=chromatic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Style_Dictionary-FF8800?style=flat-square"/>
 </div>
 
 ---
