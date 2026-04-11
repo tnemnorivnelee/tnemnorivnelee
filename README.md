@@ -56,7 +56,7 @@ console.log("Building the web, one component at a time!");
 
 **IT 해커톤 구름톤 in JEJU 17기** (2026.04) | **대상 수상 🏆**
 * 제주 전통 직업 매칭 플랫폼 '전허게' 개발 (FE 2, BE 1, PM 1, Design 1)
-* 4일간 **Orval**을 제안·세팅하여 API 연동 비용을 줄이고 핵심 UI 구현 시간 확보
+* 2일간 **Orval**을 제안·세팅하여 API 연동 비용을 줄이고 핵심 UI 구현 시간 확보
 
 **IT 연합 동아리 DND 14기** (2026.01 ~ 2026.02)
 * 8주간 Agile 방식으로 MVP 'GAK' 기획 및 FE 개발 (인증, 홈 로딩, 마이페이지 등)
