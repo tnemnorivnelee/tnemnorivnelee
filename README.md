@@ -108,7 +108,7 @@ console.log("Building the web, one component at a time!");
 ### 🔗 Links
 
 <div align="">
-  <a href="https://app.gamzatech.site/profile/tnemnorivnelee">
+  <a href="https://app.gamza.site/profile/tnemnorivnelee">
     <img src="https://img.shields.io/badge/Tech_Blog-4A90E2?style=flat-square&logo=hashnode&logoColor=white"/>
   </a>
   <a href="mailto:leegh0702@gmail.com">
