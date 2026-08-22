@@ -18,6 +18,9 @@ console.log("Building the web, one component at a time!");
 </div>
 -->
 
+<!--
+
+
 ### 🛠 Tech Stack
 
 #### Main Skills
@@ -62,6 +65,8 @@ console.log("Building the web, one component at a time!");
 * 8주간 Agile 방식으로 MVP 'GAK' 기획 및 FE 개발 (인증, 홈 로딩, 마이페이지 등)
 * **Merged PR 52건** 달성 및 테스트 자동화 등 품질 개선 작업 병행
 
+-->
+
 
 <!--
 ### Language
@@ -103,6 +108,8 @@ console.log("Building the web, one component at a time!");
 
 -->
 
+<!--
+
 ---
 
 ### 🔗 Links
@@ -116,3 +123,4 @@ console.log("Building the web, one component at a time!");
   </a>
 </div>
 
+-->
